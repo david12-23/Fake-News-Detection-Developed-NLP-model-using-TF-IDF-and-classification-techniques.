@@ -1,0 +1,1 @@
+pickle.dump(tfidf_vectorizer, open('vectorizer.pkl', 'wb'))
